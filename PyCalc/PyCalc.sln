@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyCalc", "PyCalc.pyproj", "{E709E7B7-4EDD-4B38-AFC7-468DB8A972BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E709E7B7-4EDD-4B38-AFC7-468DB8A972BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E709E7B7-4EDD-4B38-AFC7-468DB8A972BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74A5BC67-D31E-434E-A202-65BF43C34E84}
+	EndGlobalSection
+EndGlobal
